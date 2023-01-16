@@ -14,7 +14,7 @@ description:
   Step by step process of connecting Astro-Paper blog theme with Forestry
   Headless CMS.
 ---
-
+s
 In this article, I will explain step by step process of connecting AstroPaper theme with the Forestry headless CMS. So, let's get started 🎉
 
 ## Table of contents
